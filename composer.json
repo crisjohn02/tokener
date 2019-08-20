@@ -1,0 +1,19 @@
+{
+    "name": "crisjohn02/tokener",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cris",
+            "email": "crisjohnreytarpin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Crisjohn02\\Tokener\\": "src/"
+        }
+    }
+}
