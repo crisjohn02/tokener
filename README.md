@@ -14,7 +14,7 @@ $config = [
     'url' => '', // Server URL
     'id' => '', // Client ID
     'secret' => '', // Client Secret
-    'username' => ', // Email/Username
+    'username' => '', // Email/Username
     'password' => '', // Password    
 ];
 
